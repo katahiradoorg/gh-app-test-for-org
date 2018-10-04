@@ -1,0 +1,31 @@
+
+//ネコぱら３
+
+//シナリオファイル１
+
+//ＢＧ＝店舗・外観（昼）
+
+//ＳＥ＝ドアチャイムの音
+
+//声のみ
+【Chocola】「Hello there! Welcome to La Soleil! ♪」
+
+//ＢＧ＝店舗・内観（昼）
+
+//ＣＧ　全員集合
+//neko3_14a
+//ショコラバニラの辺りを表示
+//ショコラ顔１　いつもの元気な笑顔
+//バニラ顔１　いつもの微笑
+
+【Chocola】「Will you be dining in today? Or would you like something to take home?」
+
+【Chocola】「Here's our menu. Please take a look! ♪」
+
+【Vanilla】「Please enjoy this cup of complimentary tea.」
+
+【Vanilla】「Today's tea is first flush Darjeeling.」
+
+o
+
+no
